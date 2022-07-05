@@ -10,13 +10,13 @@ Computation of OEIS sequences A334254 and A334255 for n=6 and checking their val
 
 ## Outline of A334254_and_A334255.ipynb
 
-### 1. The main code with the recursive procedure to generate all closure systems represented as formal contexts and to select those satysfying the T_1 separation axiom.
+### 1. The main code with the recursive procedure to generate all closure systems represented as formal contexts and to select those satisfying the T_1 separation axiom.
 ### 2. Counting A334254 for n=6 with multiprocessing parallelisation.
 ### 3. Checking the values A334254 for n=3, 4, 5 with the code from Section 1.
 
 ## Outline of IneqA334254.ipynb
 
-### 1. The main code with the recursive procedure to generate all closure systems represented as formal contexts and to select those satysfying the T_1 separation axiom.
+### 1. The main code with the recursive procedure to generate all closure systems represented as formal contexts and to select those satisfying the T_1 separation axiom.
 ### 2. Counting A334254 for n=2,3,4,5.
 ### 3. Counting nonisomorphic closure systems from those of A334254 for n=2,3,4,5.
 
