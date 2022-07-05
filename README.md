@@ -25,3 +25,6 @@ Computation of OEIS sequences A334254 and A334255 for n=6 and checking their val
 
 * Bernhard Ganter, Rudolf Wille:
 Formal Concept Analysis - Mathematical Foundations. Springer 1999, ISBN 978-3-540-62771-5, pp. I-X, 1-284
+
+
+For any usage the acknowledgement of this repository is the necessary condition.
