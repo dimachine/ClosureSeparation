@@ -26,5 +26,7 @@ Computation of OEIS sequences A334254 and A334255 for n=6 and checking their val
 * Bernhard Ganter, Rudolf Wille:
 Formal Concept Analysis - Mathematical Foundations. Springer 1999, ISBN 978-3-540-62771-5, pp. I-X, 1-284
 
+* Dmitry I. Ignatov: On the Cryptomorphism between Davis' Subset Lattices, Atomic Lattices, and Closure Systems under T1 Separation Axiom, https://arxiv.org/abs/2209.12256, 2022
+  
 
-For any usage the acknowledgement of this repository is the necessary condition.
+For any usage the acknowledgement of this repository and the paper is the necessary condition.
